@@ -3,6 +3,7 @@ Desafio Rdmapps
 
  <h2>O que aplicativo possue?</h2>
 
+<p>• Logo </p>
 <p>• Tela Splash</p>
 <p>• Tela Inicial</p>
 <p>• Tela Cadastro</p>
